@@ -1,0 +1,61 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 802px;
+  margin: auto;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+/* header */
+
+
+.header {
+  display: flex;
+  width: 100%;
+}
+
+
+.me {
+  color: #535354;
+  text-transform: uppercase;
+  text-align: right;
+  width: 50%;
+}
+
+
+.logo {
+  width: 50%;
+}
+
+
+.logoimg {
+  width: 80px;
+  height: 80px;
+  margin-top: 15px;
+}
+
+
+/* featured work */
+
+
+.text {
+  display: flex;
+  width: 50%;
+  margin: 0px 15px;
+  color: #535354;
+}
+
+
+.coopers {
+  width: 33.3%;
+}
+
+
+.dolly {
+  width: 33.3%;
+}
+
+
+.seneca {
+  width: 33.3%;
+}
